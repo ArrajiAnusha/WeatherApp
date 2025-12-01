@@ -32,8 +32,7 @@ ________________________________________________________________________________
 | OpenWeather API | Provides live weather data |
 | FontAwesome | Icons |
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-🔗 Live Demo 
+🔗 Live Demo :
 👉 https://arrajianusha.github.io/WeatherApp/
-🔗 GitHub Repository
+🔗 GitHub Repository:
 👉 https://github.com/arrajianusha/WeatherApp
