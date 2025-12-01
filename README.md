@@ -30,8 +30,5 @@ The interface updates dynamically with weather icons and messages based on the r
 | OpenWeather API | Provides live weather data |
 | FontAwesome | Icons |
 
-🔗 Live Demo
-👉Click here to try the WeatherApp
-
-📂 GitHub Repository
-🔗GitHub Repo – WeatherApp
+🔗 Live Demo 👉 https://arrajianusha.github.io/WeatherApp/
+🔗 GitHub Repository  👉 https://github.com/arrajianusha/WeatherApp
