@@ -4,17 +4,6 @@ A sleek and modern Weather Application built using **JavaScript, HTML, and CSS**
 This application allows users to search any city and instantly view **temperature, humidity, wind speed, and weather conditions** in a beautiful UI.
 
 ---
-
-## 🔥 Preview
-
-| Location Not Found | Weather Display |
-|--------------------|-----------------|
-| ![Not Found](./assets/not-found.png) | ![Weather](./assets/weather.png) |
-
-> The UI features a **glassmorphism blurred card design** with a dynamic display based on fetched results.
-
----
-
 ## 🚀 Features
 
 - 🔍 Search for any city in the world  
